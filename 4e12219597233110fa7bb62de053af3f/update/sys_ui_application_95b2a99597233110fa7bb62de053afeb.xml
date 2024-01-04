@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Bakery bun</name>
+        <order/>
+        <roles>x_1002726_test_app.bakery_bun_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>jos.kuruvila</sys_created_by>
+        <sys_created_on>2024-01-04 12:19:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>95b2a99597233110fa7bb62de053afeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bakery bun</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test_Application" source="x_1002726_test_app">4e12219597233110fa7bb62de053af3f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_Application">4e12219597233110fa7bb62de053af3f</sys_scope>
+        <sys_update_name>sys_ui_application_95b2a99597233110fa7bb62de053afeb</sys_update_name>
+        <sys_updated_by>jos.kuruvila</sys_updated_by>
+        <sys_updated_on>2024-01-04 12:19:57</sys_updated_on>
+    </sys_ui_application>
+</record_update>

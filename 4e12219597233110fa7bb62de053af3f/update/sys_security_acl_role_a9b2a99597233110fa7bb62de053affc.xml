@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>jos.kuruvila</sys_created_by>
+        <sys_created_on>2024-01-04 12:19:58</sys_created_on>
+        <sys_id>a9b2a99597233110fa7bb62de053affc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1002726_test_app_bakery_bun.x_1002726_test_app.bakery_bun_user</sys_name>
+        <sys_package display_value="Test_Application" source="x_1002726_test_app">4e12219597233110fa7bb62de053af3f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_Application">4e12219597233110fa7bb62de053af3f</sys_scope>
+        <sys_security_acl display_value="x_1002726_test_app_bakery_bun">1db2a99597233110fa7bb62de053aff9</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a9b2a99597233110fa7bb62de053affc</sys_update_name>
+        <sys_updated_by>jos.kuruvila</sys_updated_by>
+        <sys_updated_on>2024-01-04 12:19:58</sys_updated_on>
+        <sys_user_role display_value="x_1002726_test_app.bakery_bun_user" name="x_1002726_test_app.bakery_bun_user">19b2e59597233110fa7bb62de053af8c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
